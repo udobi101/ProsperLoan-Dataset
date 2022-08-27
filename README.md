@@ -1,10 +1,10 @@
 # (Dataset Exploration Title)
-## by (your name here)
 
+## by (Chinonso Onu)
 
 ## Dataset
 
-the dataset contains 113,937 rows and 81 columns that shows infomations like ProsperScore, BorrowerAPR , borrower rate , current loan  status, borrower income, borrower employment status, borrower credit  history, Occupation and other financial information.
+the dataset contains 113,937 rows and 81 columns that shows infomations like ProsperScore, BorrowerAPR , borrower rate , current loan status, borrower income, borrower employment status, borrower credit history, Occupation and other financial information.
 
 ## Summary of Findings
 
@@ -19,4 +19,3 @@ Employed people have more Propersrating score than Parttime and Retired meaning 
 1. California, Florida and New York has the three biggest amount of loan.
 
 2. People that are employed tends to have more proper rating score than other employment status-- maybe since they are employed they proobably get to pay their loan ontime hence the reason for higher average prosper rating that means They are more Loan/Credit worhty.
-
